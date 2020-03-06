@@ -7,7 +7,7 @@ LISTA BRNCHES REMOTAS <br>
 git branch -r 
 <br><br>
 LISTAR BRANCHES REMOTOS <br>
-git ls-remote <remote-name> <br>
+git ls-remote 'remote-name' <br>
 
 
 
