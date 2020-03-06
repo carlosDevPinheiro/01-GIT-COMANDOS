@@ -1,6 +1,10 @@
 # 01-GIT-COMANDOS
 
 BAIXAR PROJETO POR UMA BRNACH ESPECIFICA <br>
-git clone -b minhaBranch git@github.com:user/myproject.git
+git clone -b minhaBranch git@github.com:user/myproject.git <br>
+<br>
+LISTA BRNCHES REMOTAS <br>
+git branch -r  
+
 
 
